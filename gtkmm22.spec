@@ -3,7 +3,7 @@ Summary:	A C++ interface for the GTK+ (a GUI library for X)
 Summary(pl):	Wrapper C++ dla GTK+
 Name:		gtkmm22
 Version:	2.2.12
-Release:	1
+Release:	2
 License:	LGPL
 Group:		X11/Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gtkmm/2.2/gtkmm-%{version}.tar.bz2
@@ -16,7 +16,7 @@ BuildRequires:	automake
 BuildRequires:	esound-devel
 BuildRequires:	glib2-devel >= 2.2.1
 BuildRequires:	gtk+2-devel >= 1:2.2.1
-BuildRequires:	libsigc++12-devel >= 1.2.5
+BuildRequires:	libsigc++12-devel >= 1.2.6
 BuildRequires:	libstdc++-devel >= 5:3.3.1
 BuildRequires:	libtool >= 2:1.4d-3
 BuildRequires:	pango-devel >= 1.2.1
