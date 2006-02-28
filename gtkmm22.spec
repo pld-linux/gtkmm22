@@ -52,7 +52,7 @@ Requires:	%{name} = %{version}-%{release}
 Requires:	%{name}-atk-devel = %{version}-%{release}
 Requires:	%{name}-pango-devel = %{version}-%{release}
 Requires:	gtk+2-devel >= 1:2.2.1
-Requires:	libsigc++12-devel >= 1.2.5	
+Requires:	libsigc++12-devel >= 1.2.5
 
 %description devel
 Header files and development documentation for GTK-- library.
