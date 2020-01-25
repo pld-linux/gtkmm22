@@ -1,4 +1,3 @@
-%include        /usr/lib/rpm/macros.perl
 Summary:	A C++ interface for the GTK+ (a GUI library for X)
 Summary(pl.UTF-8):	Wrapper C++ dla GTK+
 Name:		gtkmm22
